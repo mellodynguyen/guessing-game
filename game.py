@@ -24,6 +24,7 @@ def random_number_game():
     # too_low = 0
     # too_high = 100
 
+    print("Welcome to Mellody's Random Number Game!")
     print("Hello, what is your name?")
     name = input("type in your name: ")
     print(f"{name}, im thinking of a number between 1 and 100.")
